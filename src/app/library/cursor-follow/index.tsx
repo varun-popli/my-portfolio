@@ -27,7 +27,7 @@ const CursorFollow = () => {
   return (
     <div
       ref={eleRef}
-      className="lg:absolute pointer-events-none fixed inset-0 z-30 transition duration-200" />
+      className="pointer-events-none fixed inset-0 z-30 transition duration-300" />
   )
 };
 
