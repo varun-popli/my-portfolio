@@ -18,7 +18,7 @@ const About = () => {
         <Hypertext href="https://www.kantar.com/">data analytics focused group.</Hypertext>
       </p>
       <p>
-        When I'm not coding, you'll usually find me catching up on movies, smashing a few shuttlecocks on the badminton court, or just enjoying time with my wife and daughter.
+        {"When I'm not coding, you'll usually find me catching up on movies, smashing a few shuttlecocks on the badminton court, or just enjoying time with my wife and daughter."}
       </p>
     </>
   )
